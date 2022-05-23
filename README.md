@@ -1,4 +1,4 @@
-# primeiro---reposito
+# primeiro repositório
 
 Para copiar o códico em HTML:
 
